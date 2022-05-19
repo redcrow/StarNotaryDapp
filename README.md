@@ -8,4 +8,5 @@
 * Your ERC-721 Token Name: Crowe Notary Token
 * Your ERC-721 Token Symbol: CRW
 * Your “Token Address” on the Rinkeby Network: 0x208b33bf01515A643245F25892359be0074ddb16
+* Visit https://rinkeby.etherscan.io/address/0x208b33bf01515A643245F25892359be0074ddb16
 

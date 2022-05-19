@@ -1,4 +1,4 @@
-#PROJECT: StarNotaryDapp
+# PROJECT: StarNotaryDapp
 * Truffle v5.5.14 (core: 5.5.14)
 * Openzeppelin-solidity ^2.3.0
 * Ganache v^7.1.0
